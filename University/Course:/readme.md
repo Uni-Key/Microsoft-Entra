@@ -1,6 +1,7 @@
 # Andy Malone MVP
 playlist: [Microsoft Entra (Identity)](https://www.youtube.com/playlist?list=PLEgclf_4HA-gyThzlcleWZdm3A4DhIUfr)
 - [Goodbye Passwords! Hello Passkeys](https://youtu.be/sl1oAZAsBPo)
+- [Microsoft Entra ID Authentication Methods Explained](https://youtu.be/iSYcWNpi_6A)
 
 # John Savill
 - [Protect ALL Applications with Microsoft Entra](https://youtu.be/VJNMJQCmtuY)
