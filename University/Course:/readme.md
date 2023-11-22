@@ -1,2 +1,9 @@
+# Andy Malone MVP
 - [Microsoft Entra (Identity)](https://www.youtube.com/playlist?list=PLEgclf_4HA-gyThzlcleWZdm3A4DhIUfr)
-Andy Malone MVP
+
+# John Savill
+- [Protect ALL Applications with Microsoft Entra](https://youtu.be/VJNMJQCmtuY)
+
+# Azure Academy
+playlist: [Learn All About Microsoft Entra Right Here!](https://www.youtube.com/playlist?list=PL-V4YVm6AmwX8ZegPNAKEuLOox47aVz9O)
+- [Entra ID Beginners Guide, Avoid Becoming Obsolete!](https://youtu.be/RnnnY0hr3vE)
